@@ -24,6 +24,7 @@ display: flex;
 width: 100%;
 
 
+
 }
 .div1:hover{
     box-shadow: 0 0 10px  rgb(168, 30, 30) ;
@@ -66,18 +67,18 @@ width: 100%;
 
 
 #s1{
-    width: 500px;
+    width: 400px;
    
 }
 #m1{
-    width: 500px;
+    width: 400px;
     height: 100px;
 }
 #e1{
-    width: 246px;
+    width: 200px;
 }
 #n1{
-    width: 250px;
+    width: 200px;
 }
 body{
     background-color: rgba(0, 0, 0, 0.959);
@@ -113,6 +114,7 @@ h3{
 }
 body{
     background-color:rgb(219, 203, 203);
+    
 }
 .box1:hover{
     box-shadow: 0 0 10px  rgb(233, 161, 66) ;
@@ -279,13 +281,71 @@ body{
         margin-left: 10px;
     }
 .row1{
-    width: 652px;
+    width:70%;
     height: 222px;
     
-    margin-left: 186px;
+    margin-left: 100px;
 
 }
  .hredu{
-    rgba(168, 30, 30, 0.685)
+    rgba(168, 30, 30, 0.685);
+  
  }
+ /* #r2:hover{
+    
+        box-shadow: 0 0 15px rgb(168, 30, 30) ;
+        -moz-box-shadow: 0 0 15px  rgb(168, 30, 30);
+        -webkit-box-shadow: 0 0 15px  rgb(168, 30, 30);
+        -o-box-shadow: 0 0 15px  rgb(168, 30, 30);
+          scale: 1.11
+          
+    }
+  */
+ .div23:hover{
+    
+    box-shadow: 0 0 10px rgba(168, 30, 30, 0.644) ;
+    -moz-box-shadow: 0 0 10px  rgba(168, 30, 30, 0.644);
+    -webkit-box-shadow: 0 0 10px  rgba(168, 30, 30, 0.692);
+    -o-box-shadow: 0 0 10px  rgba(168, 30, 30, 0.692);
+      scale: 1
+     
+}
+.div24:hover{
+    
+    box-shadow: 0 0 10px rgba(168, 30, 30, 0.644) ;
+    -moz-box-shadow: 0 0 10px  rgba(168, 30, 30, 0.644);
+    -webkit-box-shadow: 0 0 10px  rgba(168, 30, 30, 0.692);
+    -o-box-shadow: 0 0 10px  rgba(168, 30, 30, 0.692);
+      scale: 1
+     
+}
+.div25:hover{
+    
+    box-shadow: 0 0 10px rgba(168, 30, 30, 0.644) ;
+    -moz-box-shadow: 0 0 10px  rgba(168, 30, 30, 0.644);
+    -webkit-box-shadow: 0 0 10px  rgba(168, 30, 30, 0.692);
+    -o-box-shadow: 0 0 10px  rgba(168, 30, 30, 0.692);
+      scale: 1
+     
+}
+
+.div23{
+    /* border: 2px solid rgba(168, 30, 30, 0.644) ;  */
+   background-color:  rgba(168, 30, 30, 0.199) ;
+  
+}
+.div24{
+    /* border: 2px solid rgba(168, 30, 30, 0.644) ; ; */
+   background-color:  rgba(168, 30, 30, 0.199) ; 
+  
+}
+  
+.div25{
+    /* border: 2px solid rgba(168, 30, 30, 0.644) ; ; */
+   background-color: rgba(168, 30, 30, 0.199) ; 
+  
+}
+.c2{
+    background-color:  rgba(168, 30, 30, 0.055) ;
+}
    
